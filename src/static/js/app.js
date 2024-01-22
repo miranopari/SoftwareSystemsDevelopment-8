@@ -4,7 +4,7 @@ function App() {
         <Container className="text-center">
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
-                    <h1>Todo App By Carlos Paniagua</h1>
+                    <h1>Todo App By Erika Kimura</h1>
                     <TodoListCard />
                 </Col>
             </Row>
